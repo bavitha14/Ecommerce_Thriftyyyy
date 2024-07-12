@@ -1,1 +1,1 @@
-# Ecommerce_Thriftyyyy
+Welcome to Thriftyyyy, a thrift store ecommerce website that promotes sustainable fashion and reduces waste in the fashion industry. Our mission is to provide a platform for customers to shop second-hand clothing, accessories, and household items while supporting local charities and reducing the environmental impact of fast fashion.
